@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rifkidocs
+- 👋 Hi, I’m Muhammad Rifki Ardiansah
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript... hehe what a shame :v
 - 📫 How to reach me?
